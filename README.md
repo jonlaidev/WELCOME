@@ -2,7 +2,7 @@
 
 
 
-# Hello! My name is Joni Laine 👋
+# Hello! My name is Joni Laine👋
 
 
 ## 🚀 About Me
