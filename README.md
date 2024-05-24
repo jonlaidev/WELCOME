@@ -9,8 +9,8 @@
 Learning to dev...
 
 
-## 🛠 Skills
-HTML, CSS, JS... TO BE CONTINUED...
+## 🛠 Tech Stack
+HTML 5, CSS 3, Java Script, Python ... TO BE CONTINUED...
 
 
 ## 🔗 Links
