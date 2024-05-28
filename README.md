@@ -6,11 +6,11 @@
 
 
 ## 🚀 About Me
-Learning to dev...
+Learning to dev...Internship starts 8-2024...
 
 
 ## 🛠 Tech Stack
-HTML 5, CSS 3, Java Script, Python ... TO BE CONTINUED...
+HTML 5, CSS 3, Java Script ... TO BE CONTINUED WITH... Python, PHP, React, NodeJS, Rust etc.
 
 
 ## 🔗 Links
