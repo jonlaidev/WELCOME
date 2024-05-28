@@ -10,7 +10,7 @@ Learning to dev...Internship starts 8-2024...
 
 
 ## 🛠 Tech Stack
-HTML 5, CSS 3, Java Script ... TO BE CONTINUED WITH... Python, PHP, React, NodeJS, Rust etc.
+HTML 5, CSS 3, Bootstrap, JavaScript ... TO BE CONTINUED WITH... Python, JQuery, API, PHP, React, NodeJS, Rust etc.
 
 
 ## 🔗 Links
